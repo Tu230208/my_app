@@ -1,0 +1,38 @@
+
+.content{
+  display: flex;
+  justify-content: space-evenly;
+  display: grid;
+  background-color: rgb(255, 255, 255);
+  height: 1100px;
+  width: 100%;
+ 
+}
+
+.container{
+   display: flex;
+    flex-direction: column;
+   height:auto 1;
+   
+}
+
+
+.mainContent{
+  padding-top: 10px;
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+  width: 950px;
+  
+
+
+}
+.PriceColor{
+  color: red;
+}
+.OldPrice{
+  text-decoration: line-through;
+  color:black
+}
+
+

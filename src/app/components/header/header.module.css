@@ -1,0 +1,15 @@
+.header{
+    display: flex;
+    flex-wrap: wrap;
+    background-color: #9e1010;
+    color: #ffb3b3;
+    align-items: flex-start;
+    justify-content: space-between;
+    align-items: center;
+  }
+
+  .nav ul li{
+    display: inline-flex;
+    margin: 30px;
+    
+  }

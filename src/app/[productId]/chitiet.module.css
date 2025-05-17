@@ -1,0 +1,71 @@
+.chitiet{
+    display: flex;
+    /* flex-direction: row; */
+    justify-content:center;
+    /* align-items: center; */
+    /* background-color: rgb(255, 255, 255); */
+    width: 100%;
+    margin-top: 20px;
+}
+.chitietsanpham{
+    width: 1200px;
+}
+.gioithieu{
+    display: flex;
+    height: 300px;
+    flex-direction: row;
+}
+.gia{
+   width: 500px;
+   /* border: 2px solid rgb(158, 31, 197); */
+   height: 300px;
+   padding-top: 20px;
+}
+.mota{
+    margin-top:20px;
+
+}
+.hinhanh{
+    width: 700px;
+    border: 2px solid rgb(125, 197, 31);
+    height: 300px;
+    display: flex;
+    justify-content: center;
+    
+}
+.slider{
+    height: 300px;
+    width: 600px;
+}
+.OldPrice{
+font-size: 20px;
+color: black;
+text-decoration: line-through;
+padding-left: 10px;
+}
+
+
+.button{
+    
+        margin: 20px auto;
+        text-decoration: none;
+        padding: 10px 20px;
+        font-size: 20px;
+        text-align: center;
+        cursor: pointer;
+        font-weight: 600;
+        width: 350px;
+        height: 55px;
+        background-color: #9c0808;
+        color: rgb(250, 246, 246);
+        border-radius: 5px;
+        /* border: none;
+        display: block; */
+}
+
+.giaohang
+{
+    font-size: 15px;
+    font-weight: normal;
+    display: inline-block;
+}
